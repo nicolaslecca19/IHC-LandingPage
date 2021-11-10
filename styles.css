@@ -54,6 +54,26 @@ body{
     text-align:center;
     margin-right: 2%;
 }
+.expl{
+    align-content: center;
+}
+.download{
+    margin-left: 6%;
+}
+.title3{
+
+    margin-left: 6%;
+}
+.title{
+
+    margin-left: 6%;
+}
+.home{
+
+
+
+    margin-left: 5%
+}
 .title-direction {
     color: #E4143D;
     font-size: 25px;
@@ -186,7 +206,7 @@ margin-right: 10%;
 .title2{
     position:absolute;
     align-content: center;
-    right: 29%;
+    right: 31%;
     font-family:"MS UI Gothic" ;
     font-weight: bold;
     font-size: 80px;
